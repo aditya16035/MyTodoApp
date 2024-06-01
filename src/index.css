@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Titillium Web", sans-serif;
+}
+ 
+body{
+    background-color: #ba92ff;
+}
